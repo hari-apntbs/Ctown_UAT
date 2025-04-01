@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>714465679948-mgodhlb6hu802sm9sp0q91ojmkce9628.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.714465679948-mgodhlb6hu802sm9sp0q91ojmkce9628</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA5onR33Ah7q-thK6BI2qxPjMFPH7V0zVw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>714465679948</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jo.ctown.ecom</string>
+	<key>PROJECT_ID</key>
+	<string>ctown-ecom</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ctown-ecom.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:714465679948:ios:f2de5c5da4dba939e0b2e9</string>
+</dict>
+</plist>

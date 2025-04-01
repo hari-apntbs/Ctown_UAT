@@ -1,0 +1,230 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": false,
+      "showSearch": true,
+      "showLogo": true
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "padding": 15.0
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": false,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "radius": 2.0,
+      "items": [{
+        "category": 134,
+        "image": "https://up.ctown.jo/pub/media/mobile-banner.png",
+        "padding": 5.0
+      },
+        {
+          "category": 497,
+          "image": "https://up.ctown.jo/pub/media/slidebanner/a/j/ajman-banner-image_2_en_3x.jpg",
+          "padding": 5.0
+        },
+        {
+          "category": 550,
+          "image": "https://up.ctown.jo/pub/media/slidebanner/a/j/ajman-banner-image_ar_3x.jpg",
+          "padding": 5.0
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "items": [{
+        "category": 494,
+        "screens": "Fresh Fish Daily",
+        "image": "https://up.ctown.jo/pub/media/Fish_Banner_360x140_4x_Large.jpg",
+        "padding": 2.5
+      },
+        {
+          "category": 530,
+          "screens": "Fresh Halal Meat",
+          "image": "https://up.ctown.jo/pub/media/Meat_Banner_360x140_4x_Large.jpg",
+          "padding": 2.5,
+          "featured": true
+        }
+      ]
+    },
+    {
+      "layout": "categorys",
+      "type": "image",
+      "padding": 15.0
+    },
+    {
+      "layout": "bannerImage",
+
+      "items": [{
+        "category": 361,
+        "screens": "Fruits & Vegetables",
+        "image": "https://up.ctown.jo/pub/media/Fruits_Vegetables_Big_Banner_LPsame_size.jpg",
+        "padding": 5.0
+      }]
+    },
+    {
+      "layout": "bannerImage",
+      "items": [{
+        "category": 72,
+        "screens": "Diary & Eggs",
+        "image": "https://up.ctown.jo/pub/media/Poultry_Dairy_Small_LPsame_size.jpg",
+        "padding": 2.5
+      },
+        {
+          "category": 494,
+          "screens": "Fish & Seafood",
+          "image": "https://up.ctown.jo/pub/media/Fishery_Small_LPsame_size.jpg",
+          "padding": 2.5,
+          "featured": true
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "items": [{
+        "category": 530,
+        "screens": "Meat & Poultry",
+        "image": "https://up.ctown.jo/pub/media/Meat_Small_LPsame_size.jpg",
+        "padding": 2.5
+      },
+        {
+          "category": 498,
+          "screens": "Ready To Cook",
+          "image": "https://up.ctown.jo/pub/media/Ready_To_Cook_LPsame_size.jpg",
+          "padding": 2.5,
+          "featured": true
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+
+      "items": [{
+        "category": 361,
+        "screens": "Fruits & Vegetables",
+        "image": "https://online.ahmarket.com/pub/media/banner_4.jpg",
+        "padding": 5.0
+      }]
+    },
+    {
+      "name": "صفقات",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 71,
+      "isSnapping": true
+    },
+
+
+    {
+      "name": "مشروبات",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 11,
+      "isSnapping": true
+    },
+
+    {
+      "name": "طعام طازج",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 71,
+      "isSnapping": true
+    },
+    {
+      "name": "المنزل والحديقة",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 145,
+      "isSnapping": true
+    },
+    {
+      "name": "مخبز",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 110,
+      "isSnapping": true
+    },
+    {
+      "name": "الصحة واللياقة البدنية",
+      "image": "",
+      "layout": "twoColumn",
+      "category": 162,
+      "isSnapping": true
+    }
+  ],
+  "Setting": {
+    "MainColor": "#f7e813",
+    "ProductListLayout": "list",
+    "StickyHeader": true,
+    "ShowChat": false
+  },
+  "TabBar": [{
+    "layout": "home",
+    "icon": "assets/icons/tabs/tab-home.png",
+    "label": "الصفحة الرئيسية"
+  },
+    {
+      "layout": "category",
+      "categoryLayout": "card",
+      "icon": "assets/icons/tabs/tab-category.png",
+      "label": "التصنيفات"
+    },
+    {
+      "layout": "deals",
+      "icon": "assets/icons/tabs/discount.png",
+      "label": "عروض"
+    },
+    {
+      "layout": "cart",
+      "icon": "assets/icons/tabs/cart.png",
+      "label": "عربة التسوق"
+    },
+    {
+      "layout": "profile",
+      "icon": "assets/icons/tabs/more.png",
+      "showChat": true,
+      "label": "أكثر"
+    }
+  ],
+  "searchSuggestion": [
+
+  ],
+  "OnBoarding": {
+    "data": [
+
+      {
+        "title": "مرحبا بكم في جمعية أسواق عجمان",
+        "image": "assets/images/intro-1.png",
+        "background": "#FFF3F2",
+        "titleColor":"#FF0000"
+      },
+      {
+        "title": "ربط العالم المحيط",
+        "image": "assets/images/intro-2.png",
+        "background": "#F2FFFC"
+      },
+      {
+        "title": "ربط العالم المحيط",
+        "image": "assets/images/intro-3.png",
+        "background": "#F2FFFC"
+      },
+      {
+        "title": "ربط العالم المحيط",
+        "image": "assets/images/intro-4.png",
+        "background": "#F2FFFC"
+      },
+      {
+        "title": "هيا بنا نبدأ",
+        "image": "assets/images/intro-5.png",
+        "background": "#f7e813"
+      }
+
+    ]
+  }
+}

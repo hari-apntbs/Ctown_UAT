@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "714465679948",
+    "project_id": "ctown-ecom",
+    "storage_bucket": "ctown-ecom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714465679948:android:939d0382ab8cf994e0b2e9",
+        "android_client_info": {
+          "package_name": "jo.ctown.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714465679948-j0p4b9ng2ilvjkhl9k8rgcn4sn9c7b49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZiiuAkxGYikp2dJ6X-sO8SORIqBL4WKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714465679948-j0p4b9ng2ilvjkhl9k8rgcn4sn9c7b49.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "714465679948-mgodhlb6hu802sm9sp0q91ojmkce9628.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jo.ctown.ecom"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
